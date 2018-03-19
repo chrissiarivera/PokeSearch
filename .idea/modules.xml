@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://J:\USJR\ANDROID\JALANE\PokemonSearch\JALANE.iml" filepath="J:\USJR\ANDROID\JALANE\PokemonSearch\JALANE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PokemonSearch.iml" filepath="$PROJECT_DIR$/PokemonSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

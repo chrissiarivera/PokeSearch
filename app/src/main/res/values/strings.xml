@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PokemonSearch</string>
+    <string name="pokeStats">- - - - - - - - - - - Stats - - - - - - - - - - -</string>
+    <string name="pokeAbilities">- - - - - - - - - - Abilities - - - - - - - - - -</string>
+    <string name="pokeTypes">- - - - - - - - - - - Types - - - - - - - - - - -</string>
+    <string name="pokeName">Enter a pokemon name</string>
+    <string name="search">SEARCH</string>
+    <string name="pokeSearch">Search for you pokemon!</string>
+</resources>
